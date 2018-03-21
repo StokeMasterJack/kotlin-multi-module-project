@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="mpp1:test" external.linked.project.path="$repos$/kotlin-multi-module-project" external.root.project.path="$repos$/kotlin-multi-module-project" external.system.id="GRADLE" external.system.module.group="" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="3" platform="Common (experimental) " useProjectSettings="false">
+        <compilerSettings />
+        <compilerArguments>
+          <option name="destination" value="$repos$/kotlin-multi-module-project/build/classes/kotlin/test" />
+          <option name="classpath" value="$repos$/kotlin-multi-module-project/build/classes/java/main:/Volumes/repos/kotlin-multi-module-project/build/classes/kotlin/main:/Volumes/repos/kotlin-multi-module-project/build/resources/main:/Users/dford/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-test-annotations-common/1.2.30/1d9a556f0a94a4ad6ffa50aff7a7c2c6e0df962d/kotlin-test-annotations-common-1.2.30.jar:/Users/dford/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-test-common/1.2.30/770dc31a0fbe6cecd7cce834fcde060e458d42f3/kotlin-test-common-1.2.30.jar:/Users/dford/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.2.30/2d91b29e5d87e144eb023510975df51240553af1/kotlin-stdlib-common-1.2.30.jar:/Volumes/repos/kotlin-multi-module-project/build/classes/kotlin/main" />
+          <option name="languageVersion" value="1.2" />
+          <option name="apiVersion" value="1.2" />
+          <option name="pluginOptions">
+            <array />
+          </option>
+          <option name="pluginClasspaths">
+            <array />
+          </option>
+        </compilerArguments>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output-test url="file://$repos$/kotlin-multi-module-project/out/test/classes" />
+    <exclude-output />
+    <content url="file://$repos$/kotlin-multi-module-project/src/test">
+      <sourceFolder url="file://$repos$/kotlin-multi-module-project/src/test/kotlin" isTestSource="true" />
+      <sourceFolder url="file://$repos$/kotlin-multi-module-project/src/test/resources" type="java-test-resource" />
+    </content>
+    <orderEntry type="jdk" jdkName="Kotlin SDK" jdkType="KotlinSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="mpp1_main" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-test-annotations-common:1.2.30" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-test-common:1.2.30" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.2.30" level="project" />
+  </component>
+  <component name="TestModuleProperties" production-module="mpp1_main" />
+</module>

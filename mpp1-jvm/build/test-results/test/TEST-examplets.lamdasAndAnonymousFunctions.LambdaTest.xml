@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="examplets.lamdasAndAnonymousFunctions.LambdaTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2018-03-21T10:40:35" hostname="df2" time="0.003">
+  <properties/>
+  <testcase name="testAnonymousFunctions" classname="examplets.lamdasAndAnonymousFunctions.LambdaTest" time="0.001"/>
+  <testcase name="testLambdaFunctions" classname="examplets.lamdasAndAnonymousFunctions.LambdaTest" time="0.002"/>
+  <system-out><![CDATA[111
+100
+111
+100
+111
+100
+111
+100
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

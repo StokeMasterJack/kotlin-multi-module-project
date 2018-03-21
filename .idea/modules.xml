@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mpp1.iml" filepath="$PROJECT_DIR$/.idea/modules/mpp1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mpp1-js/mpp1-js.iml" filepath="$PROJECT_DIR$/.idea/modules/mpp1-js/mpp1-js.iml" group="mpp1-js" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mpp1-js/mpp1-js_main.iml" filepath="$PROJECT_DIR$/.idea/modules/mpp1-js/mpp1-js_main.iml" group="mpp1-js" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mpp1-js/mpp1-js_test.iml" filepath="$PROJECT_DIR$/.idea/modules/mpp1-js/mpp1-js_test.iml" group="mpp1-js" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mpp1-jvm/mpp1-jvm.iml" filepath="$PROJECT_DIR$/.idea/modules/mpp1-jvm/mpp1-jvm.iml" group="mpp1-jvm" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mpp1-jvm/mpp1-jvm_main.iml" filepath="$PROJECT_DIR$/.idea/modules/mpp1-jvm/mpp1-jvm_main.iml" group="mpp1-jvm" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mpp1-jvm/mpp1-jvm_test.iml" filepath="$PROJECT_DIR$/.idea/modules/mpp1-jvm/mpp1-jvm_test.iml" group="mpp1-jvm" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mpp1_main.iml" filepath="$PROJECT_DIR$/.idea/modules/mpp1_main.iml" group="mpp1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mpp1_test.iml" filepath="$PROJECT_DIR$/.idea/modules/mpp1_test.iml" group="mpp1" />
+    </modules>
+  </component>
+</project>

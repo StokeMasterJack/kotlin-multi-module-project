@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="examplets.nullHandling.NullTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2018-03-21T10:40:35" hostname="df2" time="0.001">
+  <properties/>
+  <testcase name="test" classname="examplets.nullHandling.NullTest" time="0.001"/>
+  <testcase name="testLegacy" classname="examplets.nullHandling.NullTest" time="0.0"/>
+  <system-out><![CDATA[Dave - JVM
+Foo
+3
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

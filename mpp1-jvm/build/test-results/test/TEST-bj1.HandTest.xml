@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="bj1.HandTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2018-03-21T10:40:35" hostname="df2" time="0.001">
+  <properties/>
+  <testcase name="t1" classname="bj1.HandTest" time="0.0"/>
+  <testcase name="t2" classname="bj1.HandTest" time="0.001"/>
+  <system-out><![CDATA[Player  Hand
+Ace of Spades
+King of Diamonds
+11  points
+
+Dealer  Hand
+Ace of Spades
+2 of Spades
+3 of Spades
+6  points
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

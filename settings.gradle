@@ -1,0 +1,3 @@
+rootProject.name = 'mpp1'
+
+include 'mpp1-jvm', 'mpp1-js'
